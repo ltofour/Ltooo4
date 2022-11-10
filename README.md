@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3D0EB1&width=435&lines=%F0%9F%91%80+Ltooo4+(Lto4))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&height=100&lines=%F0%9F%91%80Ltooo4+(Lto4))](https://git.io/typing-svg)
 
 # 💫 About Me:
 - 🙄 Im a skid.
-- 👷‍♂️ Currently working on a shitty **hcaptcha solver**. 💀
+- 🔭 Currently working on a shitty **hcaptcha solver**. 💀
 
 
 ## 🌐 Socials:
@@ -17,5 +17,12 @@
 
 ---
 ![](https://komarev.com/ghpvc/?username=Ltooo4)
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+
+![Current UTC time](https://jojoee.jojoee.com/api/utcnowgif?utcnow)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
