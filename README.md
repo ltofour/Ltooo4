@@ -18,8 +18,6 @@
 ---
 ![](https://komarev.com/ghpvc/?username=Ltooo4)
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Ltooo4r&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
-
 
 ![Current UTC time](https://jojoee.jojoee.com/api/utcnowgif?utcnow)
 
