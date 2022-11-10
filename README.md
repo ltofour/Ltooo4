@@ -1,6 +1,8 @@
+<h1 align="center">Ltooo4</h1>
+
 # 💫 About Me:
-🙄 Im a skid.
-👷‍♂️ Currently working on a shitty hcaptcha solver 💀
+- 🙄 Im a skid.
+- 👷‍♂️ Currently working on a shitty **hcaptcha solver**. 💀
 
 
 ## 🌐 Socials:
