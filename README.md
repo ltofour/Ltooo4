@@ -12,7 +12,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ### Statistics
 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=qin2dim&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&theme=dracula" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qin2dim&hide_title=true&hide_border=true&layout=compact&hide=html&theme=dracula" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Ltooo4&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&theme=dracula" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ltooo4m&hide_title=true&hide_border=true&layout=compact&hide=html&theme=dracula" />
 
 
 ---
