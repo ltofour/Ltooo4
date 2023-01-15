@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 - 🙄 Im a skid.
-- 🔭 Currently working on a shitty **hcaptcha solver**. 💀
+- 🔭 Working on Astel Client. 💀
 
 
 ## 🌐 Socials:
