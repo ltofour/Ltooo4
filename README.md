@@ -5,14 +5,13 @@
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-[C++](https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c%2B%2B)
 ### Statistics
 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Ltooo4&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&theme=dracula" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ltooo4&hide_title=true&hide_border=true&layout=compact&hide=html&theme=dracula" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=ltofour&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&theme=dracula" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ltooo4&hide_title=true&hide_border=true&layout=compact&hide=html&theme=dracula" />
 
 
 ---
-![](https://komarev.com/ghpvc/?username=Ltooo4)
+![](https://komarev.com/ghpvc/?username=ltofour)
 
 
 ![Current UTC time](https://jojoee.jojoee.com/api/utcnowgif?utcnow)
