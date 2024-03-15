@@ -1,9 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=45&duration=4000&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=475&height=100&lines=%F0%9F%91%80+ltofour;cope+nn)](https://git.io/typing-svg)
-
-# 💫 About Me:
-- 🙄 I dox people
-- 🔭 Working on Quantum RAT
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=45&duration=4000&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=475&height=100&lines=%F0%9F%91%80+ltofour;pro+doxxer)](https://git.io/typing-svg)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/MMES2FwdZv) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ltoo04) 
